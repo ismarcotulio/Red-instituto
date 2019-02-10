@@ -1,0 +1,23 @@
+----------------Sistema Colegio para gestionar datos de alumnos y sus encargados.
+----------------Enviado de mensajes y comunicados a encargados.
+
+
+
+Arquitectura:Expontanea
+Lenguages: PHP,SQL,JS
+Frameworks: Jquery, Bootstrap
+Creado por: Marco Ruiz
+
+
+
+-------Instrucciones-----------
+1-Ir a la carpeta "sql" y ejecutar el archivo db.sql para crear la base de datos.
+2-Ejecutar el archivo de llenadogregg.sql
+3-ejecutar aplicacion en navegador.
+
+
+
+------Carpetas-----------------
+1-sql: almacena archivos de bases de datos.
+2-raiz: en ella se encuentran los archivos de login y sigin.
+3-include: metodos varios.
